@@ -1,0 +1,10 @@
+*.csproj
+
+Library/
+
+ProjectSetting/
+
+VESTA_data/
+
+Output/
+
